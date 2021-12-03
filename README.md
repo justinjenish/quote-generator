@@ -1,7 +1,7 @@
 # Quote Generator
 Website build using HTML5,CSS3 and JavaScript to generate quotes with the click of a button and also having the ability to share the desired quotes to twitter
 # Live Demo
-[Live](https://sherinechally.github.io/quote-generator/)
+[Live](https://justinjenish.github.io/quote-generator/)
 # Online Tools
 -Background pattern made using [Hero Patterns](https://www.heropatterns.com/)
 
